@@ -1,0 +1,22 @@
+{
+  "name": "sass-css",
+  "version": "1.0.0",
+  "description": "SASS leanring",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass styles/sass/style.scss styles/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopi1216/sass-css.git"
+  },
+  "author": "GOPI_J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopi1216/sass-css/issues"
+  },
+  "homepage": "https://github.com/gopi1216/sass-css#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
