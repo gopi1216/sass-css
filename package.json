@@ -4,7 +4,7 @@
   "description": "SASS leanring",
   "main": "index.js",
   "scripts": {
-    "compile-sass": "node-sass styles/sass/style.scss styles/style.css -w"
+    "compile-sass": "node-sass styles/sass/style.scss styles/style.css -w --output-style compact"
   },
   "repository": {
     "type": "git",
